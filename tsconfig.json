@@ -1,0 +1,22 @@
+{
+    "exclude": [
+      "./node_modules",
+      "./build"
+    ],
+    "compilerOptions": {
+      "baseUrl": "./src",
+      "rootDir": "./",
+      "outDir": "build",
+      "target": "es6",
+      "module": "commonjs",
+      "jsx": "react",
+      "allowJs": false,
+      "alwaysStrict": true,
+      "declaration": false,
+      "strict": true,
+      "esModuleInterop": true,
+      "resolveJsonModule": true,
+      "skipLibCheck": true
+    }
+  }
+  
