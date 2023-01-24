@@ -1,0 +1,22 @@
+{
+    "pizzas": [
+      {
+        "id": 1,
+        "name": "4 fromages",
+        "price": 800,
+        "photo": ":JSON_SERVER_URL:/assets/images/4-fromages.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Margherita",
+        "price": 700,
+        "photo": ":JSON_SERVER_URL:/assets/images/margherita.jpeg"
+      },
+      {
+        "id": 3,
+        "name": "Montagnarde",
+        "price": 850,
+        "photo": ":JSON_SERVER_URL:/assets/images/montagnarde.jpg"
+      }
+    ]
+  }
